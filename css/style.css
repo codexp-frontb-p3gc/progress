@@ -1,0 +1,24 @@
+footer{
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+
+}
+.rodape-seguir{
+    background-color: #53D87B;
+    color: white;
+    text-align: center;
+    height: 8rem;
+    vertical-align: center;
+    line-height: 8rem;
+    font-size: 1.2rem;
+}
+.rodape-assinatura{
+    background-color: #2B3339;
+    color: rgb(112, 111, 111);
+    text-align: left;
+    height: 3rem;
+    padding-left: 2rem;
+    line-height: 3rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
